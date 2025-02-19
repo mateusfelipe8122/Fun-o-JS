@@ -1,0 +1,9 @@
+function functionSoma() {
+    var a =  Math.round(prompt("informe o valor de a:",
+  10));
+   var b =  Math.round(prompt("informe o valor de b:",
+  9));
+  var soma = a+b;
+
+  alert(ovalor de a+ b e:" + soma);
+}
